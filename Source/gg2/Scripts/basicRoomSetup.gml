@@ -1,3 +1,4 @@
+//LOL VINDICATOR WAS HERE
 room_caption = global.currentMap;
 
 global.startedGame = true;
